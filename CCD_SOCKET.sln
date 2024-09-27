@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCD_SOCKET", "CCD_SOCKET\CCD_SOCKET.csproj", "{141C8608-10C7-48D8-9E6D-964A0BA8199F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCD_SOCKET_CLIENT", "CCD_SOCKET_CLIENT\CCD_SOCKET_CLIENT.csproj", "{1F61F1D7-C8AD-4C5A-9B60-6902F94CC3D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141C8608-10C7-48D8-9E6D-964A0BA8199F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141C8608-10C7-48D8-9E6D-964A0BA8199F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141C8608-10C7-48D8-9E6D-964A0BA8199F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141C8608-10C7-48D8-9E6D-964A0BA8199F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F61F1D7-C8AD-4C5A-9B60-6902F94CC3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F61F1D7-C8AD-4C5A-9B60-6902F94CC3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F61F1D7-C8AD-4C5A-9B60-6902F94CC3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F61F1D7-C8AD-4C5A-9B60-6902F94CC3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAFBFDAB-2F08-408B-B3DB-4F45106EC905}
+	EndGlobalSection
+EndGlobal
